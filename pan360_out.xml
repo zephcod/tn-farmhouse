@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vrobject>
+  <input states="1" windowheight="479" width="1706" imagepath="images" preview="4" windowwidth="853" height="958" preload="1" columns="29" rows="1" fileextension="jpg"/>
+  <control simulatemass="1" lockedmouse="0" swapxy="0" lockedkeyboard="0" dblclickfullscreen="1" revx="0" invertwheel="0" revy="0" wrapx="1" wrapy="0" trapwheel="1" automovemode="1" lockedwheel="0" speedwheel="1.000" controller="1" sensitivity="10"/>
+  <view>
+    <start row="0" column="0" state="0"/>
+    <zoom default="1.000" centerx="0.00000" centery="0.00000" min="1" max="2.000"/>
+    <viewer imagescaling="3" backgroundcolor="0xffffff" background="1"/>
+  </view>
+  <autorotate speed="0.020" onlyonce="1" delay="1000.00" start="0"/>
+  <userdata title="TN 5-Bedroom Modern Farmhouse" datetime="01/15/2025" description="Exterior facade design-visualization " copyright="DEN" author="Den-outdoors" source="" comment="" info=""/>
+  <qthotspots enabled="1" reuse="24">
+    <label width="80" backgroundalpha="1.000" enabled="1" height="0" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1.000" borderradius="1" wordwrap="1" textalpha="1.000"/>
+  </qthotspots>
+  <hotspots>
+    <label width="80" backgroundalpha="1.000" enabled="1" height="0" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1.000" borderradius="1" wordwrap="1" textalpha="1.000"/>
+    <polystyle mode="3" backgroundalpha="0.251" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1.000"/>
+  </hotspots>
+</vrobject>
